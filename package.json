@@ -1,7 +1,7 @@
 {
-  "name": "@bsblan/homebridge-bsblan-thermostat",
+  "name": "@5chacha5/homebridge-bsblan-thermostat",
   "version": "1.0.26",
-  "description": "Homebridge plugin for a bsb-lan based thermostat",
+  "description": "Homebridge plugin for a bsb-lan based thermostat adapt from BSBLAN",
   "main": "index.js",
   "dependencies": {
     "request": ">=2.88.0",
@@ -28,10 +28,10 @@
     "brötje"
   ],
   "author": "michaelfeuerstein",
-  "license": "MIT",
+  "license": "/",
   "bugs": {
-    "url": "https://github.com/lapixo/homebridge-bsblan-thermostat/issues"
+    "url": "https://github.com/5chacha5/homebridge-bsblan-thermostat/issues"
   },
-  "homepage": "https://github.com/lapixo/homebridge-bsblan-thermostat#readme",
+  "homepage": "https://github.com/5chacha5/homebridge-bsblan-thermostat#readme",
   "devDependencies": {}
 }
